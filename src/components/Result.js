@@ -12,7 +12,7 @@ function Result(props) {
   }
   return (
     <div>
-      <h3 className={`result ${passOrFail ? "fail" : "pass"}`}>{result}</h3>
+      <h3 className={`result ${passOrFail ? "pass" : "fail"}`}>{result}</h3>
     </div>
   );
 }

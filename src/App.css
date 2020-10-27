@@ -47,9 +47,11 @@ h2.incorrect-ans {
 .pass {
   background-color: green;
   color: #f5f5f5;
+  padding: 20px;
 }
 
 .fail {
   background-color: red;
   color: #f5f5f5;
+  padding: 20px;
 }
